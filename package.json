@@ -1,0 +1,11 @@
+{
+  "name": "sp-calc",
+  "version": "1.0.0",
+  "description": "Simple Calculator (sp-calc) provides calculation functions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": " <fortunetede> fortune2test@gmail.com",
+  "license": "ISC"
+}
