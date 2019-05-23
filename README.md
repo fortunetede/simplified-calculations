@@ -22,7 +22,6 @@ const getDistance = spCalc.getDistance(origin, destination)
 console.log('distance between 2 place', getDistance)
 ```
 
-
 License
 ---
 MIT
