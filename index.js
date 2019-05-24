@@ -1,3 +1,3 @@
-const distance = require('./npmS/distance')
+exports.getDistance = require('./npmS/distance')
 
-exports.getDistance = distance.getDistance()
+
