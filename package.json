@@ -1,6 +1,6 @@
 {
   "name": "sp-calc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple Calculator (sp-calc) provides calculation functions ",
   "main": "index.js",
   "scripts": {
