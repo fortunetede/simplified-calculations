@@ -21,8 +21,8 @@ const spCalc = require('sp-calc')
 const origin = { lat: 30.2705673, lng: -97.7413933 }
 const destination = { lat: 10.2705673, lng: -97.7413933 }
 
-const getDistance = spCalc.getDistance(origin, destination)
-console.log('distance between 2 place', getDistance)
+const getDistance = spCalc.getDistance.fromTwoPoint(origin, destination)
+console.log('distance between 2 point', getDistance)
 ```
 
 License
