@@ -1,3 +1,6 @@
+
+[![Build Status](https://s3.amazonaws.com/amishblog/sp-calc.png)](https://github.com/fortunetede/simplified-calculations)
+
 # Simplified Calculations
 Simplified Calculations is an npm package tool that performs simple calculations.
 
@@ -24,5 +27,5 @@ console.log('distance between 2 place', getDistance)
 
 License
 ---
-MIT
+ISC
 
